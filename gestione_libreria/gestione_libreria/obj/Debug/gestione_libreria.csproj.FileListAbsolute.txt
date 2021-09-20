@@ -1,0 +1,14 @@
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\bin\Debug\gestione_libreria.exe.config
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\bin\Debug\gestione_libreria.exe
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\bin\Debug\gestione_libreria.pdb
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\obj\Debug\gestione_libreria.csprojAssemblyReference.cache
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\obj\Debug\gestione_libreria.Form1.resources
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\obj\Debug\gestione_libreria.Properties.Resources.resources
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\obj\Debug\gestione_libreria.csproj.GenerateResource.cache
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\obj\Debug\gestione_libreria.csproj.CoreCompileInputs.cache
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\obj\Debug\gestione_libreria.exe
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\obj\Debug\gestione_libreria.pdb
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\obj\Debug\gestione_libreria.formCircle.resources
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\obj\Debug\gestione_libreria.FormMain.resources
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\obj\Debug\gestione_libreria.formText.resources
+C:\Users\kberb\source\repos\gestione_libreria\gestione_libreria\obj\Debug\gestione_libreria.formRectangle.resources
